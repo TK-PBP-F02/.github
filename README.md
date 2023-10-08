@@ -2,7 +2,7 @@
 
 # ReadQuest
 
-![Alt text](ReadQuestLogo.png)
+![Alt text](aplication-logo-titled-in-the-logo-is-readquest-upscaled.png)
 
 ### Angota Kelompok
 ------
