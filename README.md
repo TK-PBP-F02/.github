@@ -1,5 +1,3 @@
-# .github
-
 # ReadQuest
 
 ![Alt text](aplication-logo-titled-in-the-logo-is-readquest-upscaled.png)
